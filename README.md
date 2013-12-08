@@ -14,7 +14,7 @@ Use FitVids.js. This is a lightweight JaveScript file (3kb) that will keep video
 
 ## Setup
 
-1. Download FitVids.js https://github.com/davatron5000/FitVids.js and extra the files.
+1. Download FitVids.js https://github.com/davatron5000/FitVids.js and extract the files.
 2. In your child theme folder (you'll need FTP access), create a folder called **js** in the main directory.
 3. Move **jquery.fitvids.js** from the **FitVids.js-master** folder into the **js** folder you just made.
 4. Download **FitVides.js** above and drag it into the **js* folder.
