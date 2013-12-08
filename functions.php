@@ -1,7 +1,6 @@
-// Add the following code to the end of functions.php in your Genesis child theme.
+// Add the following code to the end of functions.php in your Genesis child theme. Don't copy this line.
 
-
-/** Load FitVids
+/** Load scripts for FitVids before closing the body tag */
 add_action('genesis_after_footer', 'child_script_managment');
 function child_script_managment() {
       wp_enqueue_script( 'fitvids', get_stylesheet_directory_uri() . '/js/jquery.fitvids.js', array('jquery'), '', TRUE);
