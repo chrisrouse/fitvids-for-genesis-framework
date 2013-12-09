@@ -1,5 +1,6 @@
 fitvids-for-genesis-framework
 =============================
+Blog post with detailed instructions: http://www.chrisrouse.us/how-to-make-fitvids-js-work-with-genesis-framework
 
 Instructions for using FitVids.js with Genesis Framework 2.0
 
